@@ -1,0 +1,51 @@
+@media (min-width: 769px){
+    .logo img{
+        height: 50px;
+    }
+
+    nav a{
+        font-size: 18px;
+    }
+
+    h1{
+        font-size: 35px;
+        font-weight: 500;
+    }
+
+    h2{
+        font-size: 28px;
+    }
+
+    p{
+        font-size: 20px;
+    }
+
+    .img-sub-text{
+        display: flex;
+        flex-direction: row;
+        
+        justify-content: space-between;
+    }
+
+    .img-sub-text img{
+        margin-right: 15px;
+    }
+
+    .text-sub{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    main{
+        margin-left: 25%;
+        margin-right: 25%;
+    }
+
+    footer p{
+        font-size: 15px;
+        text-align: center;
+        font-weight: 600;
+    }
+
+}
