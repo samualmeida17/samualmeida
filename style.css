@@ -124,3 +124,7 @@ main{
     justify-content: space-around;
     margin-bottom: 10px;
 }
+
+.open-book{
+    max-width: 100%;
+}
