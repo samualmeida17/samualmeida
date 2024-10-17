@@ -128,3 +128,8 @@ main{
 .open-book{
     max-width: 100%;
 }
+
+.eu{
+    border-radius: 50%;
+    border: solid 5px #A5B68D;
+}
